@@ -1,5 +1,4 @@
-### Purpose
-- Decentralised Society & In-Organic Intelligence
+## Decentralised Society & In-Organic Intelligence
 
 ### Status
 - Research & Development
